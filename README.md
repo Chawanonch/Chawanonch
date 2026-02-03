@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chawanon Chuenyen
 ==========================================================================================================================================
 
-Backend Developer, Software Tester
+Backend Developer, Fontend Developer, Fullstack Developer
 ----------------------------------
 
 * ✉️  You can contact me at [chawanon26@gmail.com](mailto:chawanon26@gmail.com)
